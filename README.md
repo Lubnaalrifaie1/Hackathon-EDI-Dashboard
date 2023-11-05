@@ -1,4 +1,4 @@
-##Inclusion in Canadian Society Dashboard 
+## _Inclusion in Canadian Society Dashboard_
 
 ## Inspiration
 **Inclusion in Canadian Society Dashboard** is inspired by Canada's dynamic and diverse societal landscape. Given the steady stream of newcomers entering the country, it's imperative to maintain an environment that is not only welcoming but also inclusive for everyone. Acknowledging the hurdles faced by these newcomers, we felt compelled to craft a tool designed to assist government bodies, organizations, and businesses in effectively understanding and connecting with this demographic, thereby nurturing a sense of belonging and inclusiveness.
