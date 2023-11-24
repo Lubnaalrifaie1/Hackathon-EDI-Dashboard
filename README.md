@@ -36,13 +36,10 @@ The development of **Inclusion in Canadian Society Dashboard**, while fulfilling
 **Inclusion in Canadian Society Dashboard** stands as a beacon showcasing the transformative power of data in cultivating a society that is more welcoming and inclusive. Through this initiative, we aim to equip stakeholders with the tools needed to engage with newcomers in a manner that is enlightened, respectful, and inclusive, thereby enriching the multifaceted canvas of Canadian society.
 
 ## Built With
-```
-databases
-Excel
-GitHub
-google-collab
-google-notebook
-html
-javascript
-visual-studio
-```
+- databases
+- Excel
+- google-collab
+- google-notebook
+- html
+- javascript
+- visual-studio
